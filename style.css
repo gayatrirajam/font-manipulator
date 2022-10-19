@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background: -webkit-radial-gradient(rgb(255, 153, 0) 0%, rgb(101, 47, 0) 100%);
+}
+.header{
+    background-color: chocolate;
+    color: white;
+    font-size: 25px;
+    box-shadow: 30, 30, 100, rgb(34, 0, 255);
+}
+.header:hover{
+    background-color: rgb(182, 90, 23);
+    color: white;
+    font-size: 30px;
+    box-shadow: 30, 30, 100, rgb(34, 0, 255);
+}
+.note{
+    color: black;
+    font-size: 15px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background: rgb(154, 105, 0);
+    color: black;
+    width: 100%;
+    line-height: 3;
+    font-size: 15px;
+}
