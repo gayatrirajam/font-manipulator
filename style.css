@@ -27,3 +27,6 @@ body{
     line-height: 3;
     font-size: 15px;
 }
+canvas{
+    border-radius: 20;
+}
