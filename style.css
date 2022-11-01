@@ -12,7 +12,7 @@ body{
     background-color: rgb(182, 90, 23);
     color: white;
     font-size: 30px;
-    box-shadow: 30, 30, 100, rgb(34, 0, 255);
+    box-shadow: 30, 30, 100, rgb(100, 76, 255);
 }
 .note{
     color: black;
@@ -29,4 +29,5 @@ body{
 }
 canvas{
     border-radius: 20;
+    font-weight: bold;
 }
